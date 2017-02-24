@@ -1,6 +1,6 @@
 #include <iostream>
 #include "Node.h"
-
+//A Node for a stack that holds either a char or int and a pointer to the next node
 
 using namespace std;
 

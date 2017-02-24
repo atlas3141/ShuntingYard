@@ -1,6 +1,6 @@
 #include "Stack.h"
 #include "Node.h"
-
+//A stack class that has the basic stack commands to be used for a shunting yard algorithim
 using namespace std;
 
 Stack::Stack(){

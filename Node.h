@@ -1,6 +1,6 @@
 #ifndef NODE_H
 #define NODE_H
-
+// the header for the node class that the stack class uses
 #include <iostream>
 
 using namespace std;
